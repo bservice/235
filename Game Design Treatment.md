@@ -5,7 +5,7 @@ Its like Mario, but here, you shoot robots and try to avoid obstacles!
 This game is a mixture of a platformer game and a shooter game.
 
 # III. Platform
-Ideally this would be compatible with all types of platforms.
+The platform for this game would be PC based.
 
 # IV. Story
 The story of this game is pretty much in the future and the player character is a human on rocket boots to fight through the robot infested world to get to the end to safety.
@@ -18,7 +18,7 @@ The sound will be very simple and techno sounding. There will be robot sounding 
 # VI. Gameplay
 The player will be able to jump (rocket boost), move left and right, and shoot things as the controls and mechanics of this game. It is a very basic combat system where the player can shoot 2-3 shots at a time to destroy enemies that would have a low health bar.
 
-This would be controlled on a keyboard only for a computer based platform. The player would use the WAD keys to jump, move left, and move right. Space bar could also be used to jump. The shift key would be the key to use to shoot the robots.
+This would be controlled on a keyboard only. The player would use the WAD keys to jump, move left, and move right. Space bar could also be used to jump. The shift key would be the key to use to shoot the robots.
 
 Players could essentially learn the game by getting to each new level which will progressively get harder with bigger obstacles to get around and more enemies.
 
