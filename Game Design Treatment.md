@@ -24,6 +24,8 @@ Players could essentially learn the game by getting to each new level which will
 
 # VII. Screenshots
 
+![alt text](https://github.com/bservice/235/blob/master/RobotBlasterPlayerRight.png "Main Character")
+![alt text](https://github.com/bservice/235/blob/master/Robot.png "Enemy")
 
 
 # About the Developer
